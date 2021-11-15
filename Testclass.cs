@@ -1,6 +1,22 @@
 ﻿using System;
 
-public class TestClass
+public class LoginInfo
 {
-	//entering some code;
+	//password - array chars
+	//username - string
+	//email - public string
+	//credit card - string
+	//first name - string
+	//last name - string
+	//phone number - array chars
+	//address - string
+
+	//GetPassword() - array chars
+	//GetUsername() - string
+	//GetEmail() - public string
+	//GetCreditCard() - string
+	//GetFirstName() - string
+	//GetLastName() - string
+	//GetPhoneNumber() - array chars
+	//GetAddress() - string
 }
